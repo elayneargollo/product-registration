@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": "1,50"
+      "price": "2.500"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
     },
     {
       "name": "Batata Frita",
-      "price": "5.00",
+      "price": "2.80",
       "id": 5
     }
   ]

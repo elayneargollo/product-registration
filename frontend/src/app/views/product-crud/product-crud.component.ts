@@ -9,13 +9,11 @@ import { Router } from '@angular/router';
 export class ProductCrudComponent implements OnInit {
 
   constructor(private router: Router) { 
-    
   }
 
   ngOnInit(): void {
   }
 
-  
   navigateToProductCreate() : void {
     this.router.navigate(['/products/create']);
   }
